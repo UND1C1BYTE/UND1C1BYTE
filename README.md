@@ -1,3 +1,6 @@
+
+<div align="center">
+
 # UNDICIBYTE
 
 ### ANALYZE. UNDERSTAND. DEFEND.
@@ -9,50 +12,93 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-0B1512?style=for-the-badge&logo=instagram&logoColor=54F2B3)](https://instagram.com/undicibyte)
 [![X](https://img.shields.io/badge/X-0B1512?style=for-the-badge&logo=x&logoColor=54F2B3)](https://x.com/undicibyte)
 
-> INITIALIZING UNDICIBYTE...
-> SIGNAL DETECTED [ ONLINE ]
-
-## // WHO WE ARE
-
-**UNDICIBYTE** explores the digital underground — one vulnerability, scam, and suspicious file at a time.
-
-We turn complex cybersecurity topics into clear, visual stories. From **malware analysis** and **bug bounty** to **real cyber incidents**, our goal is simple: **understand the threat, then learn how to defend against it.**
-
-> No fearmongering. No magic fixes. Just curiosity, evidence, and practical security.
-
-## // EXPLORE THE LAB
-
-| Division | What you'll find | Status |
-|:--|:--|:--|
-| **Threat Lab** | Malware behavior breakdowns and defensive research | PLANNED |
-| **Scam Detector** | Suspicious links and phishing analysis | PLANNED |
-| **Bug Bounty Toolkit** | Authorized security testing utilities | PLANNED |
-| **Cyber CLI** | Command-line security tools | PLANNED |
-| **Cyber Stories** | Technical investigations and case studies | PLANNED |
-
-## // THE SIGNAL
-
 ```text
-[01] ANALYZE     Decode malware, attacks, and suspicious behavior.
-[02] UNDERSTAND  Make cybersecurity accessible without losing accuracy.
-[03] DEFEND      Share practical lessons and defensive techniques.
+> INITIALIZING UNDICIBYTE...
+> SIGNAL DETECTED                    [ ONLINE ]
+> MISSION: ANALYZE. UNDERSTAND. DEFEND.
 ```
 
-## // WHAT WE COVER
-
-![Malware](https://img.shields.io/badge/MALWARE_ANALYSIS-0E1C17?style=flat-square&logo=virustotal&logoColor=5DE4AC)
-![Bug Bounty](https://img.shields.io/badge/BUG_BOUNTY-0E1C17?style=flat-square&logo=hackerone&logoColor=5DE4AC)
-![Scams](https://img.shields.io/badge/PHISHING_%26_SCAMS-0E1C17?style=flat-square&logo=github&logoColor=5DE4AC)
-![Threat Intelligence](https://img.shields.io/badge/THREAT_INTELLIGENCE-0E1C17?style=flat-square&logo=github&logoColor=5DE4AC)
-
-## // FOLLOW THE INVESTIGATION
-
-Our videos are the entry point. This GitHub is where we share **technical context, sources, experiments, and open-source work** as they become available.
-
-**Watch the story. Explore the evidence. Learn the technique.**
+</div>
 
 ---
 
-### END OF TRANSMISSION_
+## `// ABOUT UNDICIBYTE`
 
-*For education and authorized defensive research only.*
+**UNDICIBYTE** is an independent cybersecurity project exploring the digital underground — one vulnerability, scam, and suspicious file at a time.
+
+I analyze malware, investigate real cyber incidents, test software, and explore bug bounty research.
+
+My mission is simple: **make cybersecurity understandable, expose digital threats, and share practical ways to stay protected.**
+
+> No fearmongering. No magic fixes. Just curiosity, evidence, and practical security.
+
+---
+
+## `// EXPLORE THE LAB`
+
+A collection of cybersecurity research, open-source tools, and technical investigations.
+
+| Division | Description | Status |
+|:--|:--|:--|
+| **Threat Lab** | Malware behavior analysis, threat intelligence, and defensive research | PLANNED |
+| **Scam Detector** | Suspicious URL inspection and phishing analysis | PLANNED |
+| **Bug Bounty Toolkit** | Utilities for authorized security testing | PLANNED |
+| **Cyber CLI** | Command-line security and analysis tools | PLANNED |
+| **Cyber Stories** | Real-world cyber incidents and technical investigations | PLANNED |
+
+---
+
+## `// THE MISSION`
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [01] ANALYZE                                            │
+│       Investigating malware, exploits, and threats.      │
+│                                                          │
+│  [02] UNDERSTAND                                         │
+│       Breaking down complex security concepts.          │
+│                                                          │
+│  [03] DEFEND                                             │
+│       Turning knowledge into practical protection.       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `// AREAS OF INTEREST`
+
+<div align="center">
+
+![Malware Analysis](https://img.shields.io/badge/MALWARE_ANALYSIS-0E1C17?style=for-the-badge&logo=virustotal&logoColor=5DE4AC)
+![Bug Bounty](https://img.shields.io/badge/BUG_BOUNTY-0E1C17?style=for-the-badge&logo=hackerone&logoColor=5DE4AC)
+![Threat Intelligence](https://img.shields.io/badge/THREAT_INTELLIGENCE-0E1C17?style=for-the-badge&logo=github&logoColor=5DE4AC)
+![Phishing](https://img.shields.io/badge/PHISHING_RESEARCH-0E1C17?style=for-the-badge&logo=github&logoColor=5DE4AC)
+![Security Research](https://img.shields.io/badge/SECURITY_RESEARCH-0E1C17?style=for-the-badge&logo=linux&logoColor=5DE4AC)
+
+</div>
+
+---
+
+## `// FOLLOW THE INVESTIGATION`
+
+Every video is just the beginning.
+
+Here you'll find technical insights, security experiments, research notes, and open-source projects as they're released.
+
+**Watch the story. Explore the evidence. Understand the threat.**
+
+---
+
+<div align="center">
+
+### `> END OF TRANSMISSION_`
+
+**ANALYZE. UNDERSTAND. DEFEND.**
+
+`[ UNDICIBYTE // SECURITY RESEARCH // OPEN SOURCE ]`
+
+*All research is intended for educational purposes and authorized security testing.*
+
+</div>
