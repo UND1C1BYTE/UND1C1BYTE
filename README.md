@@ -5,7 +5,7 @@
 
 ### ANALYZE. UNDERSTAND. DEFEND.
 
-**Malware Analysis • Bug Bounty • Real Cyber Stories**
+**Malware Analysis • Bug Bounty**
 
 [![YouTube](https://img.shields.io/badge/YOUTUBE-0B1512?style=for-the-badge&logo=youtube&logoColor=ff4444)](https://youtube.com/@UNDICIBYTE)
 [![TikTok](https://img.shields.io/badge/TIKTOK-0B1512?style=for-the-badge&logo=tiktok&logoColor=54F2B3)](https://tiktok.com/@undicibyte)
